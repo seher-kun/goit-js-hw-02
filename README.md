@@ -1,2 +1,2 @@
 # goit-js-hw-02
-Ödev #3
+Ödev #2
