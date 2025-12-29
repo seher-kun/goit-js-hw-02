@@ -1,2 +1,2 @@
 # goit-js-hw-02
-Ödev #2
+Ödev #2 düzeltme
